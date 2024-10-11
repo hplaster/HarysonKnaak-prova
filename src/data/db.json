@@ -1,0 +1,36 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "admin",
+      "email": "admin",
+      "senha": "4321"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "mouse",
+      "categoria": "front-end",
+      "preco": "0"
+    },
+    {
+      "id": "2",
+      "nome": "teclado",
+      "categoria": "macho",
+      "preco": "99.9"
+    },
+    {
+      "id": "33d8",
+      "nome": "Monitor",
+      "categoria": "Eletrônicos",
+      "preco": "666"
+    },
+    {
+      "id": "4eae",
+      "nome": "CPU",
+      "categoria": "Hardware",
+      "preco": "333.00"
+    }
+  ]
+}
